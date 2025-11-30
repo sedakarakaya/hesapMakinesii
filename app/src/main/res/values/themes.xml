@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.HesapMakinesi" parent="Theme.AppCompat.NoActionBar">
+
+        <item name="android:statusBarColor">@color/white</item>
+
+        <item name="android:windowBackground">@color/white</item>
+
+        <item name="buttonStyle">@style/Widget.AppCompat.Button</item>
+    </style>
+
+    <style name="Theme.HesapMakinesi" parent="Base.Theme.HesapMakinesi" />
+</resources>
